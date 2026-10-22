@@ -45,7 +45,7 @@ indicators but excel in others?
 
 ## Methodology
 
-In this section the methodology we used is explained. For a more analytical describing of it, different weight scenarios and preference functions used can be seen in a previous research done using 10 countries and 10 indicators in : [`Previous Analytical Report 10 Countries 10 Indicators`](Previous%20Analytical%20Report%2010%20Countries%2010%20Indicators/Quality_Of_Life_Theodoros_Lamprou_Bad23018.pdf)
+In this section the methodology we used is explained. For a more analytical describing of it, different weight scenarios and preference functions used can be seen in a previous research done using 10 countries and 10 indicators in : [`Previous Analytical Report 10 Countries 10 Indicators`](Previous%20Analytical%20Report%2010%20Countries%2010%20Indicators/Quality_Of_Life.pdf)
 
 1. **Data collection:** Annual data for 20 European Union countries are retrieved from Eurostat. The period chosen is 2014-2023, using 13 indicators related to Quality of Life. 
 2. **Data preparation:** Filtering the dataset dimensions, merging the dataset and organizing the observations by country-year. This creates a dataset with 200 country-year observations.
@@ -349,7 +349,7 @@ This is a personal data analytics portfolio project demonstrating data acquisiti
 5) The 2 excel files for Linear and Usual preference are available in [`results`](results/Quality_Of_Life_EU_Linear_Function.xlsx)
 [`results`](results/Quality_Of_Life_EU_Usual_Function.xlsx)
 6) The python script used is available in [`Python File`](Python%20File/PROMETHEE-II-Quality-Of-Life-Final.py)
-7) The analytical report used in a previous research for more understanding of the theoritical part of our analysis is available in [`Previous Analytical Report 10 Countries 10 Indicators`](Previous%20Analytical%20Report%2010%20Countries%2010%20Indicators/Quality_Of_Life_Theodoros_Lamprou_Bad23018.pdf)
+7) The analytical report used in a previous research for more understanding of the theoritical part of our analysis is available in [`Previous Analytical Report 10 Countries 10 Indicators`](Previous%20Analytical%20Report%2010%20Countries%2010%20Indicators/Quality_Of_Life.pdf)
 
 
 **Note:** The Excel workbook is provided as an existing export. The preference comparison images were supplied separately and are not generated automatically by the included script in one run; choose `u` for Usual function or `li` for Linear, for separate runs.
