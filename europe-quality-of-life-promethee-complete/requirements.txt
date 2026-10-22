@@ -1,0 +1,5 @@
+eurostat
+numpy
+pandas
+matplotlib
+openpyxl
