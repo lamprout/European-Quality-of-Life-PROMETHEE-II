@@ -317,17 +317,11 @@ Overall, this research shows the value of the PROMETHEE II methodology in handli
 
 ## Recommendations
 
-1.	Different Weight Determination
-Future studies should conduct a large-scale survey questioning the significancy of each of the indicators. Doing this, a greater number of participants could take place and this would allow for a more representative result in creating weights for each of the indicators. This could give a different approach than this research showing how multi-dimensional the concept of Quality of Life, and PROMETHEE II MCDA method is.
-2.	More expanding Set of Indicators
-This study used 13 indicators focused on economic, material, criminality and pollution aspects. It would be wise to expand the criteria to include more dimensions, such as physical health, mental well-being, access to services and more. As we mentioned in the limitations, Quality of Life is so complex that even our 13 criteria are not enough to describe it as a concept. By having more indicators and from different dimensions, this would broaden our view in Quality of Life since we saw how multi-dimensional it is.
-3.	Include all EU Countries 
-This research used 20 different European Union countries that scored differently across the indicators chosen. It could be scaled up to cover all members of the European Union to observe the overall Quality of Life ranking in Europe.
-4.	PROMETHEE vs Other MCDA Methods
-It would be wise to extend this research in using other MCDA methods such as TOPSIS, ELECTRE and the others we mentioned so that we could compare the results and see the differences between them.
-5. Extension of the Time Period
-The present analysis covers the period from 2014 to 2023. Future studies could extend the dataset to include more recent years as new Eurostat observations become available.
-This would allow researchers to investigate whether the improvements observed in several countries continue over time and whether their relative Quality of Life rankings change.
+1.	**Different Weight Determination**: Future studies should conduct a large-scale survey questioning the significancy of each of the indicators. Doing this, a greater number of participants could take place and this would allow for a more representative result in creating weights for each of the indicators. This could give a different approach than this research showing how multi-dimensional the concept of Quality of Life, and PROMETHEE II MCDA method is.
+2.	**More expanding Set of Indicators**: This study used 13 indicators focused on economic, material, criminality and pollution aspects. It would be wise to expand the criteria to include more dimensions, such as physical health, mental well-being, access to services and more. As we mentioned in the limitations, Quality of Life is so complex that even our 13 criteria are not enough to describe it as a concept. By having more indicators and from different dimensions, this would broaden our view in Quality of Life since we saw how multi-dimensional it is.
+3.	**Include all EU Countries**: This research used 20 different European Union countries that scored differently across the indicators chosen. It could be scaled up to cover all members of the European Union to observe the overall Quality of Life ranking in Europe.
+4.	**PROMETHEE vs Other MCDA Methods**: It would be wise to extend this research in using other MCDA methods such as TOPSIS, ELECTRE and the others we mentioned so that we could compare the results and see the differences between them.
+5. **Extension of the Time Period**: The present analysis covers the period from 2014 to 2023. Future studies could extend the dataset to include more recent years as new Eurostat observations become available. This would allow researchers to investigate whether the improvements observed in several countries continue over time and whether their relative Quality of Life rankings change.
 
 
 
