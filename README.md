@@ -8,4 +8,5 @@ A multi-criteria decision analysis of Quality of Life across 20 European countri
 3) **Python File**: Contains the Python script used for our research.
 4) **Results**: Contains 2 Excel workbooks we get as output from the Python script. Modifications have been made inside.
 5) **Requirements**: Contains the Python libraries required for the project.
+6) **Quality_Of_Life.pbix**: Contains a Power BI dashboard developed as an enhanced visualization of the results obtained and analyzed through excel. 
 
